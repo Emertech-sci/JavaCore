@@ -1,5 +1,6 @@
 public class FirstSample {
     public static void main(String[] args){
-        System.out.println("We will not use \"Hello world\"");
+        // Java es sensible a mayusculas/ minusculas.
+        System.out.println("We will not use \"Hello world\""); // Objeto: System.out, metodo: println.
     }
 }
