@@ -4,7 +4,7 @@ public class VarAndConst {
         declarada con las keywords static final
      */
 
-    public static final double CM_POR_PULGADA = 2.54;
+    public static final double CM_POR_PULGADA = 2.54; // Puede ser usada en otros metodos de la misma clase
 
     public static void main(String[] args) {
         /*
